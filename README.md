@@ -634,7 +634,7 @@ If the connection is going from a NAT-ed peer to a public peer, the node behind 
 
 # Example Server-To-Server Config with Roaming Devices
 
-The complete example config for the setup below can be found here: https://github.com/pirate/wireguard-docs/tree/master/full-example (WARNING: do not use it on your devices without chaning the public/private keys!).
+The complete example config for the setup below can be found here: https://github.com/pirate/wireguard-docs/tree/master/full-example (WARNING: do not use it on your devices without changing the public/private keys!).
 
 ## Overview
 
